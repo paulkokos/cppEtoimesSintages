@@ -4,8 +4,13 @@
 
 
 #include <iostream>
-int main() {
-    std::cout << "Hello world";
+using namespace std;
 
+
+
+int main() {
+    int a=1;
+    cout << a;
+    cout << a;
     return 0;
 }
