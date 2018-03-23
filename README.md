@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/deftio/travis-ci-cpp-example.svg?branch=master)](https://travis-ci.org/deftio/travis-ci-cpp-example)
-[![Coverage Status](https://coveralls.io/repos/github/deftio/travis-ci-cpp-example/badge.svg?branch=master)](https://coveralls.io/github/deftio/travis-ci-cpp-example?branch=master)
+[![Build Status](https://travis-ci.org/paulkokos/cppEtoimesSintages.svg?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/paulkokos/cppEtoimesSintages/badge.svg?branch=master)](https://coveralls.io/github/paulkokos/cppEtoimesSintages?branch=master)
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
 # Simple Example for C/C++ Testing
