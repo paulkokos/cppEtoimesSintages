@@ -3,6 +3,11 @@ language: cpp
 
 #sudo: false # only for faster builds
 
+os:
+  - linux
+  - osx
+  - windows
+
 install:
 - cd ${TRAVIS_BUILD_DIR}
 # install latest LCOV (1.9 was failing for me) [1]
