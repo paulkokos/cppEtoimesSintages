@@ -11,8 +11,8 @@ This repo covers setting up a basic testing suite with github badges for a C/C++
 I just wanted to make a small standalone test project to see tools and workflow for C language testing.
 
 
-copyright (C) <2016>  <M. A. Chatterjee>  <deftio [at] deftio [dot] com>
-version 1.0 M. A. Chatterjee
+copyright (C) <2021>  <Pavlos Kokozidis>  <paulkokos [at] yahoo [dot] gr>
+version 1.0 Pavlos kokozidis
 
 
 
